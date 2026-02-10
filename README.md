@@ -187,7 +187,3 @@ DELETE /tasks
 GitHub: [@GiovanniR-dev](https://github.com/GiovanniR-dev)
 
 ---
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
